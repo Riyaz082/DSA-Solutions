@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Riyaz082/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Riyaz082/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Riyaz082/DSA-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Riyaz082/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
