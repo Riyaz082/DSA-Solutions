@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
