@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Riyaz082/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Riyaz082/DSA-Solutions/tree/master/0242-valid-anagram) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
