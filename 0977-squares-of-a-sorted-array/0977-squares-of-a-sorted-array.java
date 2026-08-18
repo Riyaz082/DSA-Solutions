@@ -3,20 +3,18 @@ class Solution {
         int n = nums.length;
         int[] res = new int[n];
 
-        int j = 0;
+        int left = 0;
+        int right = n - 1;
 
-        for (int i = 0; i < n; i++) {
-            int sqr = nums[i] * nums[i];
+        for (int i = n - 1; i >= 0; i--) {
 
-            int k = j;
-
-            while (k > 0 && res[k - 1] > sqr) {
-                res[k] = res[k - 1];
-                k--;
+            if (Math.abs(nums[left]) > Math.abs(nums[right])) {
+                res[i] = nums[left] * nums[left];
+                left++;
+            } else {
+                res[i] = nums[right] * nums[right];
+                right--;
             }
-
-            res[k] = sqr;
-            j++;
         }
 
         return res;
