@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Riyaz082/DSA-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Riyaz082/DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Riyaz082/DSA-Solutions/tree/master/0141-linked-list-cycle) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Riyaz082/DSA-Solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Riyaz082/DSA-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Riyaz082/DSA-Solutions/tree/main/0046-permutations/) | Medium |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Riyaz082/DSA-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0047-permutations-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Riyaz082/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Riyaz082/DSA-Solutions/tree/master/0217-contains-duplicate) |
