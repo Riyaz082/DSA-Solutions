@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Riyaz082/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1480-running-sum-of-1d-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Riyaz082/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
