@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0575-distribute-candies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Riyaz082/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Riyaz082/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Riyaz082/DSA-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -325,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/Riyaz082/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
