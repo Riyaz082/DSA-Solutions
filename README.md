@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Riyaz082/DSA-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Riyaz082/DSA-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/Riyaz082/DSA-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
