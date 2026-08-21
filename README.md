@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Riyaz082/DSA-Solutions/tree/main/0986-interval-list-intersections/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Riyaz082/DSA-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Recursion
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/2270-number-of-ways-to-split-array) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Riyaz082/DSA-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Riyaz082/DSA-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Riyaz082/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## String
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Backtracking
