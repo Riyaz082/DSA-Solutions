@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Riyaz082/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0202-happy-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Riyaz082/DSA-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Riyaz082/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3370-smallest-number-with-all-set-bits](https://github.com/Riyaz082/DSA-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
