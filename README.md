@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Riyaz082/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0575-distribute-candies/) | Easy |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Riyaz082/DSA-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Riyaz082/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Riyaz082/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Riyaz082/DSA-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
@@ -279,11 +283,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
