@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Riyaz082/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Riyaz082/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1991-find-the-middle-index-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Riyaz082/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Riyaz082/DSA-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
