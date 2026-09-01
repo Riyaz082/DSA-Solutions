@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Riyaz082/DSA-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Riyaz082/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/Riyaz082/DSA-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Riyaz082/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyaz082/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -473,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyaz082/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
