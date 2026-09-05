@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Riyaz082/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/Riyaz082/DSA-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Riyaz082/DSA-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/Riyaz082/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Riyaz082/DSA-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Riyaz082/DSA-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/Riyaz082/DSA-Solutions/tree/main/0134-gas-station/) | Medium |
 | [0455-assign-cookies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
