@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Riyaz082/DSA-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Riyaz082/DSA-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Riyaz082/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Riyaz082/DSA-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Riyaz082/DSA-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Riyaz082/DSA-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0455-assign-cookies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0502-ipo](https://github.com/Riyaz082/DSA-Solutions/tree/master/0502-ipo) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Riyaz082/DSA-Solutions/tree/master/0146-lru-cache) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Riyaz082/DSA-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyaz082/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -530,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Riyaz082/DSA-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
