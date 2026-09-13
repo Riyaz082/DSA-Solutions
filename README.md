@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Riyaz082/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Riyaz082/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Riyaz082/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Riyaz082/DSA-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Riyaz082/DSA-Solutions/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
