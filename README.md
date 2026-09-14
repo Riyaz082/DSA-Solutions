@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Riyaz082/DSA-Solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Riyaz082/DSA-Solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2270-number-of-ways-to-split-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
+| [2395-find-subarrays-with-equal-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Riyaz082/DSA-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
