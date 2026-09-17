@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Riyaz082/DSA-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Riyaz082/DSA-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
