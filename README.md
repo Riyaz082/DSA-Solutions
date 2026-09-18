@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Riyaz082/DSA-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Riyaz082/DSA-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Riyaz082/DSA-Solutions/tree/main/3370-smallest-number-with-all-set-bits/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Riyaz082/DSA-Solutions/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3560-find-minimum-log-transportation-cost](https://github.com/Riyaz082/DSA-Solutions/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
