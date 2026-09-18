@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/Riyaz082/DSA-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -623,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2427-number-of-common-factors](https://github.com/Riyaz082/DSA-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/Riyaz082/DSA-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
