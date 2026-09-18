@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0788-rotated-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Riyaz082/DSA-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0788-rotated-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
