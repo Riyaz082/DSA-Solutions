@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Riyaz082/DSA-Solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0575-distribute-candies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riyaz082/DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Riyaz082/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Riyaz082/DSA-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0274-h-index](https://github.com/Riyaz082/DSA-Solutions/tree/main/0274-h-index/) | Medium |
 | [1051-height-checker](https://github.com/Riyaz082/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
