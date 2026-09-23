@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Riyaz082/DSA-Solutions/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Riyaz082/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0047-permutations-ii/) | Medium |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Riyaz082/DSA-Solutions/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0047-permutations-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
