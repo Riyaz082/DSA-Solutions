@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Riyaz082/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Riyaz082/DSA-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Riyaz082/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Riyaz082/DSA-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Riyaz082/DSA-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Riyaz082/DSA-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Riyaz082/DSA-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Riyaz082/DSA-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
