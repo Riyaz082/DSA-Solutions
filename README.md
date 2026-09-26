@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Riyaz082/DSA-Solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/Riyaz082/DSA-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Riyaz082/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/Riyaz082/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Riyaz082/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Riyaz082/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0090-subsets-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Riyaz082/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/Riyaz082/DSA-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Riyaz082/DSA-Solutions/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/Riyaz082/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/Riyaz082/DSA-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Riyaz082/DSA-Solutions/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -665,5 +668,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Riyaz082/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Riyaz082/DSA-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 <!---LeetCode Topics End-->
