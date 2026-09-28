@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0788-rotated-digits/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Riyaz082/DSA-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Riyaz082/DSA-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riyaz082/DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Riyaz082/DSA-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyaz082/DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
