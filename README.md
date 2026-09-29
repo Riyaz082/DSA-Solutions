@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2235-add-two-integers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Riyaz082/DSA-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Riyaz082/DSA-Solutions/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
