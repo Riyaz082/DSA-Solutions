@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Riyaz082/DSA-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Riyaz082/DSA-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0258-add-digits/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Riyaz082/DSA-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Riyaz082/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
+| [0258-add-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0258-add-digits/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Riyaz082/DSA-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Riyaz082/DSA-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
