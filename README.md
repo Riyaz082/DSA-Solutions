@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2427-number-of-common-factors](https://github.com/Riyaz082/DSA-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2544-alternating-digit-sum/) | Easy |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Riyaz082/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0258-add-digits/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Riyaz082/DSA-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Riyaz082/DSA-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
