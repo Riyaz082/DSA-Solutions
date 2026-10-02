@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Riyaz082/DSA-Solutions/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/Riyaz082/DSA-Solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3828-final-element-after-subarray-deletions](https://github.com/Riyaz082/DSA-Solutions/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [3945-digit-frequency-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/3945-digit-frequency-score/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
