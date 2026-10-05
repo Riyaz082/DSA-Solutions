@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Riyaz082/DSA-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Riyaz082/DSA-Solutions/tree/master/0217-contains-duplicate) |
+| [0228-summary-ranges](https://github.com/Riyaz082/DSA-Solutions/tree/main/0228-summary-ranges/) | Easy |
 | [0274-h-index](https://github.com/Riyaz082/DSA-Solutions/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/Riyaz082/DSA-Solutions/tree/master/0283-move-zeroes) |
