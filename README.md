@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Riyaz082/DSA-Solutions/tree/main/2446-determine-if-two-events-have-conflict/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Riyaz082/DSA-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Riyaz082/DSA-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riyaz082/DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Riyaz082/DSA-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Riyaz082/DSA-Solutions/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Riyaz082/DSA-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
