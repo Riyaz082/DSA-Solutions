@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Riyaz082/DSA-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Riyaz082/DSA-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0342-power-of-four](https://github.com/Riyaz082/DSA-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0645-set-mismatch](https://github.com/Riyaz082/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Riyaz082/DSA-Solutions/tree/main/0198-house-robber/) | Medium |
+| [0338-counting-bits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/Riyaz082/DSA-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0416-partition-equal-subset-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/0509-fibonacci-number/) | Easy |
