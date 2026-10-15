@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Riyaz082/DSA-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyaz082/DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Riyaz082/DSA-Solutions/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 ## Prefix Sum
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Riyaz082/DSA-Solutions/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/Riyaz082/DSA-Solutions/tree/main/0258-add-digits/) | Easy |
+| [0867-transpose-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/0867-transpose-matrix/) | Easy |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Riyaz082/DSA-Solutions/tree/main/1945-sum-of-digits-of-string-after-convert/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Riyaz082/DSA-Solutions/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
