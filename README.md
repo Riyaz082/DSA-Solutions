@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Riyaz082/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Riyaz082/DSA-Solutions/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0724-find-pivot-index](https://github.com/Riyaz082/DSA-Solutions/tree/main/0724-find-pivot-index/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
