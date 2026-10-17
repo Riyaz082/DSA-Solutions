@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Riyaz082/DSA-Solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
+| [3819-rotate-non-negative-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3828-final-element-after-subarray-deletions](https://github.com/Riyaz082/DSA-Solutions/tree/main/3828-final-element-after-subarray-deletions/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Riyaz082/DSA-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
@@ -726,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Riyaz082/DSA-Solutions/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3819-rotate-non-negative-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/3819-rotate-non-negative-elements/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Riyaz082/DSA-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
