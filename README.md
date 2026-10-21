@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Riyaz082/DSA-Solutions/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/Riyaz082/DSA-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Riyaz082/DSA-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyaz082/DSA-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Doubly-Linked List
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyaz082/DSA-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0225-implement-stack-using-queues](https://github.com/Riyaz082/DSA-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Riyaz082/DSA-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Riyaz082/DSA-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Monotonic Queue
