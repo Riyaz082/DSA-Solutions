@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Riyaz082/DSA-Solutions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Riyaz082/DSA-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3794-reverse-string-prefix](https://github.com/Riyaz082/DSA-Solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Recursion
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Riyaz082/DSA-Solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Riyaz082/DSA-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2848-points-that-intersect-with-cars](https://github.com/Riyaz082/DSA-Solutions/tree/main/2848-points-that-intersect-with-cars/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Riyaz082/DSA-Solutions/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Riyaz082/DSA-Solutions/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2540-minimum-common-value](https://github.com/Riyaz082/DSA-Solutions/tree/main/2540-minimum-common-value/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Riyaz082/DSA-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Riyaz082/DSA-Solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Riyaz082/DSA-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Riyaz082/DSA-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Riyaz082/DSA-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Riyaz082/DSA-Solutions/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
