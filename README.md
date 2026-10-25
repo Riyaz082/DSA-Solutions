@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/Riyaz082/DSA-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0455-assign-cookies/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Riyaz082/DSA-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/Riyaz082/DSA-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Riyaz082/DSA-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Riyaz082/DSA-Solutions/tree/main/0541-reverse-string-ii/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Riyaz082/DSA-Solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1446-consecutive-characters](https://github.com/Riyaz082/DSA-Solutions/tree/main/1446-consecutive-characters/) | Easy |
