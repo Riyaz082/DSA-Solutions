@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Riyaz082/DSA-Solutions/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Riyaz082/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Riyaz082/DSA-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyaz082/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Riyaz082/DSA-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Riyaz082/DSA-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Riyaz082/DSA-Solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyaz082/DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Riyaz082/DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0888-fair-candy-swap](https://github.com/Riyaz082/DSA-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Riyaz082/DSA-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Riyaz082/DSA-Solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Riyaz082/DSA-Solutions/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Riyaz082/DSA-Solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/Riyaz082/DSA-Solutions/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Riyaz082/DSA-Solutions/tree/main/0888-fair-candy-swap/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyaz082/DSA-Solutions/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Riyaz082/DSA-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Riyaz082/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
